@@ -1,15 +1,15 @@
 {
   "transforms": [
     {
-      "output_variable": "author",
-      "type": "input"
-    },
-    {
       "output_variable": "action_name",
       "type": "input"
     },
     {
       "output_variable": "package_name",
+      "type": "input"
+    },
+    {
+      "output_variable": "author",
       "type": "input"
     },
     {
