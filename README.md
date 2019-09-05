@@ -1,4 +1,4 @@
-# Release Action
+# fnew-name
 
 ## Action Inputs
 
