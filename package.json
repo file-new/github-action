@@ -7,8 +7,8 @@
   "scripts": {
     "build": "tsc",
     "clean": "rm -rf lib/*",
-    "debug": "yarn install && yarn build",
-    "release": "yarn install --production && yarn build",
+    "debug": "yarn clean && yarn install && yarn build",
+    "release": "yarn clean && yarn install --production && yarn build",
     "test": "jest"
   },
   "repository": {
